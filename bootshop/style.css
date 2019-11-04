@@ -1,0 +1,46 @@
+.nav {
+    background: #ddd;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.search-container {
+    float: left;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+
+body {
+    margin: 0;
+}
+
+.menu a {
+    float: left;
+    padding: 12px 16px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.navb {
+    background: grey;
+} 
